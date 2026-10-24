@@ -1,0 +1,21 @@
+Você vai criar a logo de uma organização de ensino de cibersegurança, em formato paisagem, com no mínimo 2400 pixels de largura.
+
+**Família visual.** Esta logo faz parte de uma família de marcas do mesmo grupo de pesquisa. As irmãs são assim: um símbolo sólido de uma cor só, com um animal do Pampa recortado em negativo dentro dele (um cavalo vazado dentro de uma letra B; a cabeça de um gavião vazada dentro de um círculo), seguido do nome à direita, na mesma linha de base, sobre um fundo branco quente e liso. Siga exatamente essa linguagem: silhueta chapada de uma cor só, sem contorno, sem sombra, o animal recortado em negativo dentro da forma sólida, fundo liso, nome ao lado.
+
+**Tema.** A organização se chama TocaiaCTF e faz uma plataforma aberta de aprendizado de cibersegurança e competições do tipo Capture the Flag, em que o participante resolve desafios para capturar uma bandeira. Tocaia é a emboscada: esperar escondido pelo momento certo. O símbolo é o gato-palheiro, pequeno gato selvagem dos campos do Pampa.
+
+**Símbolo pedido.** Uma bandeira sólida, retangular, com a borda direita levemente ondulada, presa a um mastro vertical grosso do lado esquerdo. Dentro da bandeira, recortada em negativo, a cabeça de um gato selvagem vista de frente, com as duas orelhas pontudas bem visíveis e dois olhos estreitos e amendoados, na cor da bandeira, olhando direto para quem vê. A cabeça ocupa bem o interior da bandeira, sem sobrar borda larga demais em volta. É a mesma lógica das marcas irmãs: o animal é vazado dentro da forma sólida. Nenhuma letra entra no símbolo.
+
+**Composição pedida.** Lockup horizontal, lido da esquerda para a direita. O mastro com a bandeira à esquerda, ocupando a altura total da marca. O nome logo à direita, na mesma linha de base, com um espaço entre os dois igual à largura de uma letra. Margem folgada em volta de tudo, sem nada encostando na borda. Fundo liso e uniforme, sem textura, sem faixa, sem moldura.
+
+**Texto a renderizar**, exatamente com esta grafia e esta caixa: TocaiaCTF
+
+É uma palavra só, sem espaço: T maiúsculo no início, as letras ocaia minúsculas, e CTF todo em maiúsculas. Tipografia pesada, sem serifa, geométrica, de terminações retas, no mesmo peso visual da bandeira. Sem itálico, sem contorno, sem espaçamento extra entre as letras.
+
+**Paleta obrigatória**, duas cores e nenhuma terceira: #A63A24, vermelho-tijolo, para a bandeira, o mastro, os olhos do gato e o nome; #F8F7F4, branco quente, para o fundo, e portanto para a cabeça do gato vazada dentro da bandeira. Use exatamente esses dois valores: não um vermelho vivo, não laranja, não vinho, não marrom.
+
+**Estilo.** Vetorial chapado, duas cores, formas sólidas. Nada de degradê, sombra, brilho, bisel, textura, pelo desenhado fio a fio, manchas ou listras na pelagem, fotorrealismo nem 3D.
+
+**Legibilidade, que é o critério mais importante.** A marca vai virar avatar e vai aparecer em 40 pixels. A bandeira com o gato precisa continuar reconhecível recortada sozinha, sem o nome, num quadrado. As orelhas pontudas são o que faz ler como gato: elas precisam ser grandes e evidentes. O mastro precisa ser grosso. Nenhum detalhe fino, nenhum bigode, nada que suma na redução. A logo precisa funcionar impressa em uma cor só.
+
+**O que não fazer.** Sem nenhuma letra dentro do símbolo. Sem caveira, sem bandeira pirata, sem escudo, cadeado, chave, terminal, código, mira ou alvo. Sem gato inteiro, sem corpo, sem rabo: só a cabeça. Sem bigodes. Sem texto além da palavra pedida, sem slogan, sem sigla. Sem marca d'água, moldura, cantos arredondados na imagem final ou borda branca de adesivo.
