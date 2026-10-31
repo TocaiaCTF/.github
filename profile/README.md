@@ -82,6 +82,19 @@ de Software, PPGES).
 <a href="https://www.linkedin.com/in/cristhiankapelinski">LinkedIn</a>
 </td>
 </tr>
+<tr>
+<td width="140" valign="top" align="center">
+<a href="https://github.com/inari18"><img src="https://github.com/inari18.png?size=200" width="120" alt="Beatriz Machado"></a>
+</td>
+<td valign="top">
+<b>BEATRIZ MACHADO</b> works on cybersecurity research at AI Horizon Labs, Universidade Federal do Pampa (UNIPAMPA), on vulnerability analysis, data anonymization, and the use of language models to automate security work. She was a research fellow with the Brazilian National Research and Education Network (RNP), and wrote MulitaMiner, which turns the heterogeneous reports of security scanners into structured records with the help of language models. That work received second place for best paper at WRSeg 2025.
+<br><br>
+<a href="https://orcid.org/0009-0002-2750-0323">ORCID</a> ·
+<a href="http://lattes.cnpq.br/6591374203213574">Lattes</a> ·
+<a href="https://github.com/inari18">GitHub</a> ·
+<a href="https://www.linkedin.com/in/beatriz18/">LinkedIn</a>
+</td>
+</tr>
 </table>
 
 Lattes is the Brazilian national registry of researcher CVs, maintained by CNPq, the federal
